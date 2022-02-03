@@ -12,7 +12,7 @@ Original tested environment is as follows:
 - Code was tested on Ubuntu and Windows 10 (TensorRT not supported officially)
 
 
-However, I strongly recommend using Docker because you can prepare environment very easily. 
+However, I strongly recommend using Docker because you can come up with environment very easily. 
 So I use the following command with OS Ubuntu 20.04 and NVIDIA Titan-X GPU.
 
 Before the following, check the NVIDIA driver status with `nvidia-smi`.
